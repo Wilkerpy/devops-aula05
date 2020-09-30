@@ -1,4 +1,3 @@
-
 import jogovelha
 import sys
 
